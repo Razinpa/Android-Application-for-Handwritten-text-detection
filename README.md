@@ -1,0 +1,1 @@
+# Android-Application-for-Handwritten-text-detection
